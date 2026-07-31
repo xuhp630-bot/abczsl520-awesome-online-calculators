@@ -2,6 +2,9 @@
 
 A curated list of the best free online calculators organized by category.
 
+## Construction & Home Calculators
+- [Concrete Calculator Hub](https://concreteestimatorhub.com/) - Free concrete calculators for slabs, footings, post holes, bag counts, ready-mix planning, and material cost estimates.
+
 ## Financial Calculators
 - [Mortgage Calculator](https://go-calc.com/tools/mortgage-calculator/) - Calculate monthly payments
 - [Compound Interest Calculator](https://go-calc.com/tools/compound-interest-calculator/) - Project investment growth
